@@ -1,0 +1,8 @@
+.block {
+  height: 10rem;
+  width: 10rem;
+  background-color: deepskyblue;
+  padding: 1rem;
+  border-radius: 1rem;
+  text-align: center;
+}
